@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1066083027823894658/1069031735788060763/comet.png"> <br>
   <b>Comet Network DDoS Bot Discord</b> <br>
-  <i>Comet written on Python, logs ddos all people with discord panel</i>
+  <i>Comet written on Python, ddos all people with discord panel</i>
 </p>
 
 # :construction: Disclaimer
