@@ -89,5 +89,4 @@
 # Requirements:
 If you want to usefrom the source these are the requirements.
  - [Visual Studio 2022 (v17.*)](https://visualstudio.microsoft.com/vs/)
- - [NET SDK 6.0.*](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) (included in Visual Studio 2022)
- - [NET Framework SDK 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) (included in Visual Studio 2022)
+ - [PYTHON](https://www.python.org/) (included in Visual Studio 2022)
